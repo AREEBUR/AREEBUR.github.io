@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(14, 12, 12);
+    color: lightyellow;
+}
+.right {
+    float: left;
+    height: 900px;
+    position: relative;
+}
+.right img {
+    height: 900px;
+}
+.name {
+    position: absolute;
+    font-size: 7mm;
+    color: rgb(220, 243, 243);
+    top: 92%;
+    left: 48%;
+    transform: translate(-50%,-50%);
+}
+.name h4 {
+color: chartreuse;
+text-align: center;
+}
+.text {
+    float: left;
+    }
+.text h1 {
+    color: white;
+    font-size: 15mm;
+}
+.text table tr th {
+    color: chartreuse;
+    height: 80px;
+}
+.text p {
+color: cornsilk;
+}
+.text h2 {
+    color: white;
+}
+.text table tr td {
+    height: 80px;
+}
+.text table tr td b {
+    color: white;
+}
